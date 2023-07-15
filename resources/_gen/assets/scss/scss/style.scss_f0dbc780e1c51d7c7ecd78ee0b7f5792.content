@@ -289,7 +289,7 @@ textarea.form-control {
   font-weight: 700; }
 
 .banner {
-  padding: 100px 0 50px; }
+  padding: 25px 0 50px; }
 
 .feature-card {
   border-radius: 10px;
@@ -551,3 +551,5 @@ a.post-title {
 .price {
   font-size: 50px;
   color: #222; }
+
+/* Carousel Header Styles */

@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = 'https://vintagecarhiremelbourne.au/'
 title = "Vintage Car Hire Melbourne"
-theme = "bigspring-light"
+theme = "Bennellit"
 # post pagination
 paginate = "3"
 # post excerpt

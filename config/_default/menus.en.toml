@@ -25,17 +25,17 @@ url = "Gallery/"
 weight = 5
 
 # footer menu left
-[[footer_left]]
-name = "About Us"
-url = "#"
+#[[footer_left]]
+#name = "About Us"
+#url = "#"
 
-[[footer_left]]
-name = "Quick Start"
-url = "#"
+#[[footer_left]]
+#name = "Quick Start"
+#url = "#"
 
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing/"
 
 
 # footer menu middle
@@ -52,14 +52,14 @@ name = "Features"
 url = "#"
 
 # footer menu right
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+#[[footer_right]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
 
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
+#[[footer_right]]
+#name = "Terms & Conditions"
+#url = "terms-conditions/"
 
-[[footer_right]]
-name = "FAQ"
-url = "faq/"
+#[[footer_right]]
+#name = "FAQ"
+#url = "faq/"

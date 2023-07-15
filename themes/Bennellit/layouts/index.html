@@ -1,7 +1,8 @@
 {{ define "main" }}
 
-<!-- banner -->
+<!--old banner-->
 {{ with .Params.banner }}
+{{ range $i,$p := .banner_item }}
 <section class="banner">
   <div class="container">
     <div class="row">
@@ -13,14 +14,19 @@
         <div><a href="{{ .link | safeURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a></div>
         {{ end }}
         {{ end }}
-
-        {{with .image}}<img src="{{ . | relURL }}" alt="" class="img-fluid mt-5" width="750px">{{end}}
       </div>
     </div>
   </div>
+    <div {{if gt (len .images) 1}}class="slider banner" {{end}}>
+      {{ range .images }}
+      <img src="{{ . | relURL }}" alt="" class="img-fluid">
+      {{ end }}
+    </div>
 </section>
 {{ end }}
+{{ end }}
 <!-- /banner -->
+
 
 <!-- feature -->
 {{ with .Params.feature }}
@@ -32,9 +38,9 @@
         <h2 class="section-title">{{ .title | markdownify }}</h2>
       </div>
       {{ range .feature_item }}
-      <div class="col-md-4 col-sm-6 mb-4">
+      <div class="col mb-4  ">
         <div class="feature-card text-center">
-          <i class="{{.icon}} mb-3"></i>
+          {{with .image}}<img src="{{ . | relURL }}" alt="" class="img-fluid mt-5" width="750px">{{end}}
           <h4 class="mb-2">{{ .name | title }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
