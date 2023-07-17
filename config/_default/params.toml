@@ -7,9 +7,11 @@ author = "Stewart Bennell"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
-
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
+
+# copyright
+Copyright = "Copyright 2023 | [Always Classic Cars](https://alwaysclassiccars.com.au/) | All Rights Reserved | Powered by [Bennell IT](https://www.bennellit.com.au)"
 
 # Preloader
 [preloader]
@@ -41,6 +43,6 @@ icon = "fab fa-instagram"
 link = "https://www.instagram.com/alwaysclassiccars/"
 
 [[social]]
-title = "linkedin"
-icon = "fab ti-car" # themify icon : https://themify.me/themify-icons
+title = "easyweddings"
+icon = "fa-solid fa-car"
 link = "https://www.easyweddings.com.au/WeddingCars/Melbourne/AlwaysClassicCars/"

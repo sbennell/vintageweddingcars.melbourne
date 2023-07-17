@@ -194,8 +194,8 @@ a:hover {
   outline: 0; }
 
 .section {
-  padding-top: 70px;
-  padding-bottom: 70px; }
+  padding-top: 25px;
+  padding-bottom: 25px; }
   .section-title {
     margin-bottom: 30px; }
 
@@ -289,7 +289,7 @@ textarea.form-control {
   font-weight: 700; }
 
 .banner {
-  padding: 25px 0 50px; }
+  padding: 25px 0 0px; }
 
 .feature-card {
   border-radius: 10px;

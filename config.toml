@@ -22,7 +22,7 @@ light = "#EDF6F5"
 # example: "Work Sans:wght@400;500;600"
 primary_font = "Lato:wght@400"
 primary_font_type = "sans-serif" # [serif/sans-serif]
-icon_font = "Font Awesome 5 Free"
+icon_font = "Font Awesome 6 Free"
 
 
 ############################# Plugins ##############################
@@ -32,11 +32,11 @@ link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/fontawesome.min.css"
 [[params.plugins.css]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/brands.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css"
 [[params.plugins.css]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/solid.min.css"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/solid.min.css"
 
 
 # JS Plugins
@@ -47,5 +47,5 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 # [[params.plugins.js]]
-# link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+# link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"
 # attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
