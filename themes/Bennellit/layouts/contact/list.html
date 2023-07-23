@@ -8,7 +8,10 @@
         <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="{{ i18n `yourname` }}">
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="{{ i18n `youremail` }}">
-          <input type="text" class="form-control mb-3" id="Number" name="Number" placeholder="{{ i18n `Contact Number` }}">
+          <input type="text" class="form-control mb-3" id="Number" name="number" placeholder="{{ i18n `contactnumber` }}">
+          <input type="date" class="form-control mb-3" id="date" name="dateofwedding" placeholder="{{ i18n `dateofwedding` }}">
+          <input type="text" class="form-control mb-3" id="date" name="pickuplocation" placeholder="{{ i18n `pickuplocation` }}">
+          <input type="text" class="form-control mb-3" id="date" name="droplocation" placeholder="{{ i18n `droplocation` }}">
           <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="{{ i18n `subject` }}">
           <textarea name="message" id="message" class="form-control mb-3" placeholder="{{ i18n `yourmessage` }}"></textarea>
           <button type="submit" value="send" class="btn btn-primary">{{ i18n `sendnow` }}</button>

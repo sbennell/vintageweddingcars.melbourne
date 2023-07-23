@@ -13,6 +13,18 @@ other = "Your Name"
 [youremail]
 other = "Your Email"
 
+[contactnumber]
+other = "Contact Number"
+
+[dateofwedding]
+other = "Dat of Wedding"
+
+[pickuplocation]
+other = "Pickup Location"
+
+[droplocation]
+other = "Drop Location"
+
 [subject]
 other = "Subject"
 
