@@ -1,0 +1,99 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Cars"
+url = "cars/"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 4
+
+[[main]]
+name = "Gallery"
+url = "Gallery/"
+weight = 5
+
+[[main]]
+weight = 6
+name = "Pages"
+hasChildren = true
+
+  [[main]]
+  name = "about"
+  url = "about/"
+  parent = "Pages"
+
+  [[main]]
+  name = "elements"
+  url = "elements/"
+  parent = "Pages"
+
+  [[main]]
+  parent = "Pages"
+  name = "Blog"
+  url = "blog/"
+
+  [[main]]
+  parent = "Pages"
+  name = "Authors"
+  url = "authors/"
+
+  [[main]]
+  parent = "Pages"
+  name = "Search"
+  url = "search/"
+
+  [[main]]
+  parent = "Pages"
+  name = "Categories"
+  url = "categories/"
+
+  [[main]]
+  parent = "Pages"
+  name = "404 Page"
+  url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Car"
+url = "car/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+[[footer]]
+name = "FAQ"
+url = "faq/"
+weight = 4
+
+[[footer]]
+name = "FAQ"
+url = "faq/"
+weight = 5
+
+[[footer]]
+name = "Gallery"
+url = "Gallery/"
+weight = 6
