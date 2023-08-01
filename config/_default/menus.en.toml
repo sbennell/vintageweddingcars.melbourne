@@ -74,8 +74,8 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "Car"
-url = "car/"
+name = "Cars"
+url = "cars/"
 weight = 2
 
 [[footer]]
