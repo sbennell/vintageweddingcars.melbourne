@@ -3,12 +3,11 @@ title: "1962 Bentley Cloud"
 meta_title: "1962 Bentley Cloud"
 description: "1962 Bentley Cloud"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "Stewart Bennell"
+image: "/images/cars/1962-bentley-cloud/1962-bentley-cloud.jpg"
 tags: ["5 Passengers", "Black", "Royce Cloud"]
 draft: false
 ---
 ## History
 
 ## Photos
+{{< gallery dir="images/cars/1962-bentley-cloud/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

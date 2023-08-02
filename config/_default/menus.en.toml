@@ -23,49 +23,8 @@ weight = 4
 
 [[main]]
 name = "Gallery"
-url = "Gallery/"
+url = "gallery/"
 weight = 5
-
-[[main]]
-weight = 6
-name = "Pages"
-hasChildren = true
-
-  [[main]]
-  name = "about"
-  url = "about/"
-  parent = "Pages"
-
-  [[main]]
-  name = "elements"
-  url = "elements/"
-  parent = "Pages"
-
-  [[main]]
-  parent = "Pages"
-  name = "Blog"
-  url = "blog/"
-
-  [[main]]
-  parent = "Pages"
-  name = "Authors"
-  url = "authors/"
-
-  [[main]]
-  parent = "Pages"
-  name = "Search"
-  url = "search/"
-
-  [[main]]
-  parent = "Pages"
-  name = "Categories"
-  url = "categories/"
-
-  [[main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404/"
-
 
 # footer menu
 [[footer]]
@@ -95,5 +54,5 @@ weight = 5
 
 [[footer]]
 name = "Gallery"
-url = "Gallery/"
+url = "gallery/"
 weight = 6

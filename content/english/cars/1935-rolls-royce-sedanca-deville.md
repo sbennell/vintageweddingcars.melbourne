@@ -3,9 +3,7 @@ title: "1935 Rolls Royce Sedanca DeVille"
 meta_title: "1935 Rolls Royce Sedanca DeVille"
 description: "1935 Rolls Royce Sedanca DeVille"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "Stewart Bennell"
+image: "/images/cars/1935-rolls-royce-sedanca-deville/1935-rolls-royce-sedanca-deville.jpg"
 tags: ["4 Passengers", "Black", "Rolls Royce"]
 draft: false
 ---
@@ -23,3 +21,4 @@ The following owner George Ronald Lovett purchased the Rolls in 1992 whilst sail
 Mr Lovett is from Fingal Bay NSW and a member of the Rolls Royce Club. 
 The Rolls Royce finally became the property of Always Classic Cars in March 2000 and in our assessment, it has done very little mileage and yet travelled three Continents. The vehicle is now commercially licensed, and we hope it will create a very special memory for you just like it did in the past.    
 ## Photos
+{{< gallery dir="images/cars/1935-rolls-royce-sedanca-deville/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
