@@ -57,7 +57,7 @@ function initialize() {
           lightness: "50",
         },
         {
-          visibility: "simplified",
+          visibility: "off",
         },
       ],
     },
@@ -105,7 +105,7 @@ function initialize() {
           saturation: -100,
         },
         {
-          visibility: "simplified",
+          visibility: "off",
         },
       ],
     },
@@ -156,8 +156,8 @@ function initialize() {
   var mapType = new google.maps.StyledMapType(style, {
     name: "Grayscale",
   });
-  map.mapTypes.set("grey", mapType);
-  map.setMapTypeId("grey");
+  map.mapTypes.set("roadmap", mapType);
+  map.setMapTypeId("roadmap");
   var marker_image = mapMarker;
   var pinIcon = new google.maps.MarkerImage(
     marker_image,
