@@ -58,7 +58,7 @@ jobs:
         run: npm run build
 
       - name: FTP site
-        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           ftp-server: ftp.alwaysclassiccars.com.au/
           ftp-username: vintagecarhiremelbourne.au@vintagecarhiremelbourne.au
