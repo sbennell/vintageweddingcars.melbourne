@@ -57,8 +57,8 @@ jobs:
       - name: Publish to GitHub Pages
         run: npm run build
 
-
   # Deployment job
+    deploy:
     - name: Deploy
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
