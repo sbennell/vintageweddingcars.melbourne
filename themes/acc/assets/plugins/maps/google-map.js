@@ -105,7 +105,7 @@ function initialize() {
           saturation: -100,
         },
         {
-          visibility: "off",
+          visibility: "simplified",
         },
       ],
     },
