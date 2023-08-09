@@ -60,7 +60,7 @@ jobs:
       - name: FTP site
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: ftp.alwaysclassiccars.com.au/
+          server: ftp.alwaysclassiccars.com.au
           username: vintagecarhiremelbourne.au@vintagecarhiremelbourne.au
           password: ${{ secrets.FTP_password }}
           local-dir: ./public/
