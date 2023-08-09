@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "http://172.16.0.51:1313/"
+baseURL = "https://vintagecarhiremelbourne.au/"
 # Title of your website (required).
 title = "Vintage Car Hire Melbourne"
 # Your theme name
@@ -20,6 +20,7 @@ disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
+timeout = 100000 
 
 ########################## Permalinks ############################
 [permalinks.page]
