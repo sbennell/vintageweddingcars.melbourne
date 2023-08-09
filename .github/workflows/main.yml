@@ -63,5 +63,6 @@ jobs:
           server: ftp.alwaysclassiccars.com.au
           username: vintagecarhiremelbourne.au@vintagecarhiremelbourne.au
           password: ${{ secrets.FTP_password }}
+          protocol: ftps
           local-dir: ./public/
           git-ftp-args: --insecure --all
