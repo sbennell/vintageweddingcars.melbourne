@@ -14,6 +14,9 @@ We are situated at 360 Elgar Rd Box Hill Vic 3128, near the corner of Standard A
 Always Classic Cars has over 25 vehicles to choose from and we offer the biggest selection of Rolls Royce’s (preserved and maintained at the highest standard).
 The cars are black, white, silver, and black and grey two-tone.
 
+## Cars
+All cars are owned by Always Classic Cars, driven by chauffeurs under the Commercial Passengers Vehicle Victoria. We carry full Public Liability.
+
 ## Viewing
 We welcome you to view our classic cars at our showroom. This allows you to sit in the cars and see whether it provides the right comfort for you.
 This is highly recommended as it is important to factor the size of the bridal gown as well as everyone’s different dynamics.
