@@ -12,7 +12,7 @@ banner:
 ##################### About ##########################
 about:
   enable : true
-  title : "Something You Need To Know"
+  title : ""
   about_item:
     # About item 1
     - name : "Chauffer Driven"
