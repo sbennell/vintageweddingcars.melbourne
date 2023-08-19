@@ -36,4 +36,4 @@ In 1998 December Always Classic Cars.
 
 Restored and Re-registered Tom-32. 
 ## Photos
-{{< gallery dir="images/cars/1932-Rolls-Royce/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/cars/1932-rolls-royce/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
