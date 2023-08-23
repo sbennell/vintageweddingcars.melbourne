@@ -7,7 +7,5 @@ image: "/images/cars/2006-mercedes-s-class/2006-mercedes-s-class.jpg"
 tags: ["4 Passengers", "Black", "Mercedes"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/2006-mercedes-s-class/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

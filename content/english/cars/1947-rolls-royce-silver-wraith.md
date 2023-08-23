@@ -7,7 +7,5 @@ image: "/images/cars/1947-rolls-royce-silver-wraith/1947-rolls-royce-silver-wrai
 tags: ["4 Passengers", "Black", "Rolls Royce"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1947-rolls-royce-silver-wraith/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

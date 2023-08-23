@@ -8,7 +8,5 @@ image: "/images/cars/1951-rolls-royce-silver-wraith/1951-rolls-royce-silver-wrai
 tags: ["4 Passengers", "Two-Tone", "Rolls Royce"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1951-rolls-royce-silver-wraith/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

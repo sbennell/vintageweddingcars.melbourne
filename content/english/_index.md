@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Welcome to Vintage Car Hire Melbourne."
+  title: "Welcome to Rolls Royce Car Hire."
   content: "We have Melbourne’ Biggest Vintage and Classic Cars Collection Ranging from 1932 to 1975 cars suitable for Weddings, Debutante Balls, School Formals or any occasion."
   image: "/images/image_Home_0.jpg"
   button:

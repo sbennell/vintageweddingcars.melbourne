@@ -7,7 +7,5 @@ image: "/images/cars/1968-rolls-royce-convertible/1968-rolls-royce-convertible.j
 tags: ["5 Passengers", "White", "Royce Cloud"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1968-rolls-royce-convertible/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

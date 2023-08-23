@@ -7,7 +7,5 @@ image: "/images/cars/1961-rolls-royce-phantom-v/1961-rolls-royce-phantom-v.jpg"
 tags: ["8 Passengers", "White", "Royce Cloud"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1961-rolls-royce-phantom-v/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

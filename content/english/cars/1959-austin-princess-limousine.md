@@ -7,7 +7,5 @@ image: "/images/cars/1959-austin-princess-limousine/1959-austin-princess-limousi
 tags: ["8 Passengers", "Black", "Austin"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1959-austin-princess-limousine/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

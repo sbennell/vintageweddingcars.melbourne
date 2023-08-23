@@ -7,7 +7,6 @@ image: "/images/cars/1975-rolls-royce-shadow/1975-rolls-royce-shadow.jpg"
 tags: ["4 Passengers", "White", "Royce Cloud"]
 draft: false
 ---
-## History
 
 ## Photos
 {{< gallery dir="images/cars/1975-rolls-royce-shadow/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

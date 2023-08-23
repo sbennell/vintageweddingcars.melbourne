@@ -8,7 +8,5 @@ image: "/images/cars/1960-bentley-cloud-lwb/1960-bentley-cloud-lwb.jpg"
 tags: ["5 Passengers", "White", "Bentley"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1960-bentley-cloud-lwb/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

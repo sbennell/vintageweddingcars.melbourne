@@ -7,7 +7,5 @@ image: "/images/cars/1960-rolls-royce-cloud-lwb/1960-rolls-royce-cloud-lwb.jpg"
 tags: ["5 Passengers", "White", "Royce Cloud"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1960-rolls-royce-cloud-lwb/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

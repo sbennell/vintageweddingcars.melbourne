@@ -7,7 +7,5 @@ image: "/images/cars/1959-rolls-royce-cloud/1959-rolls-royce-cloud.jpg"
 tags: ["5 Passengers", "Black", "Rolls Royce"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1959-rolls-royce-cloud/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

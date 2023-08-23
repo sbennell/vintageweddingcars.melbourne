@@ -7,7 +7,5 @@ image: "/images/cars/1962-bentley-cloud/1962-bentley-cloud.jpg"
 tags: ["5 Passengers", "Black", "Bentley"]
 draft: false
 ---
-## History
-
 ## Photos
 {{< gallery dir="images/cars/1962-bentley-cloud/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
