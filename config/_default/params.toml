@@ -11,7 +11,7 @@ logo_height = "164px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Rolls Royce Car Hire"
+logo_text = "Vintage Wedding Cars Melbourne"
 # navbar fixed to top
 navbar_fixed = false
 # theme-mode
