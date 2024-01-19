@@ -57,7 +57,7 @@ function initialize() {
           lightness: "50",
         },
         {
-          visibility: "off",
+          visibility: "simplified",
         },
       ],
     },
@@ -156,15 +156,15 @@ function initialize() {
   var mapType = new google.maps.StyledMapType(style, {
     name: "Grayscale",
   });
-  map.mapTypes.set("roadmap", mapType);
-  map.setMapTypeId("roadmap");
+  map.mapTypes.set("grey", mapType);
+  map.setMapTypeId("grey");
   var marker_image = mapMarker;
   var pinIcon = new google.maps.MarkerImage(
     marker_image,
     null,
     null,
     null,
-    new google.maps.Size(30, 50)
+    new google.maps.Size(30, 50),
   );
   marker = new google.maps.Marker({
     position: nottingham,

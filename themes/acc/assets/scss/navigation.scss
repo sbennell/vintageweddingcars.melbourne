@@ -1,14 +1,14 @@
 // navbar toggler
-input#nav-toggle:checked ~ label#show-button {
+input#nav-toggle:checked + label #show-button {
   @apply hidden;
 }
 
-input#nav-toggle:checked ~ label#hide-button {
-  @apply flex lg:hidden;
+input#nav-toggle:checked + label #hide-button {
+  @apply block;
 }
 
 input#nav-toggle:checked ~ #nav-menu {
-  @apply block lg:flex;
+  @apply block;
 }
 
 .header {
@@ -36,19 +36,27 @@ input#nav-toggle:checked ~ #nav-menu {
 // }
 
 .nav-link {
-  @apply text-dark hover:text-primary dark:text-darkmode-dark block p-3 font-semibold transition lg:px-2 lg:py-3;
+  @apply text-dark hover:text-primary dark:text-darkmode-dark dark:hover:text-darkmode-primary block p-3 cursor-pointer font-semibold transition lg:px-2 lg:py-3;
 }
 
 .nav-dropdown {
   @apply mr-0;
+  & > svg {
+    @apply pointer-events-none;
+  }
+  &.active {
+    .nav-dropdown-list {
+      @apply block;
+    }
+  }
 }
 
 .nav-dropdown-list {
-  @apply bg-body dark:bg-darkmode-body z-10 min-w-[180px] rounded p-4 shadow;
+  @apply bg-body dark:bg-darkmode-body z-10 min-w-[180px] rounded p-4 shadow hidden lg:invisible lg:absolute lg:block lg:opacity-0;
 }
 
 .nav-dropdown-item {
-  @apply mb-2;
+  @apply [&:not(:last-child)]:mb-2;
 }
 
 .nav-dropdown-link {
