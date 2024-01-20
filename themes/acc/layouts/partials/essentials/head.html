@@ -1,5 +1,4 @@
 <meta charset="utf-8" />
-<title>{{ .Title | default site.Title }}</title>
 
 <!-- responsive meta -->
 <meta
@@ -30,7 +29,9 @@
 
 
 <!-- google analytics -->
-{{ template "_internal/google_analytics.html" . }}
+{{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-MEASUREMENT_ID") }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}
 
 
 <!-- google tag manager -->
