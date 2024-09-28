@@ -4,7 +4,7 @@ meta_title: "1959 Rolls Royce Cloud"
 description: "1959 Rolls Royce Cloud"
 date: 2022-04-04T05:00:00Z
 image: "/images/cars/1959-rolls-royce-cloud/1959-rolls-royce-cloud.jpg"
-tags: ["5 Passengers", "Black", "Rolls Royce"]
+tags: ["4 Passengers", "Black", "Rolls Royce"]
 draft: false
 ---
 ## Photos

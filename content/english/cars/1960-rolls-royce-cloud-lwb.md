@@ -4,7 +4,7 @@ meta_title: "1960 Rolls Royce Cloud LWB"
 description: "1960 Rolls Royce Cloud LWB"
 date: 2022-04-04T05:00:00Z
 image: "/images/cars/1960-rolls-royce-cloud-lwb/1960-rolls-royce-cloud-lwb.jpg"
-tags: ["5 Passengers", "White", "Royce Cloud"]
+tags: ["4 Passengers", "White", "Royce Cloud"]
 draft: false
 ---
 ## Photos

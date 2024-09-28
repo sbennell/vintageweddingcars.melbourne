@@ -4,7 +4,7 @@ meta_title: "1961 Rolls Royce Phantom V "
 description: "1961 Rolls Royce Phantom V"
 date: 2022-04-04T05:00:00Z
 image: "/images/cars/1961-rolls-royce-phantom-v/1961-rolls-royce-phantom-v.jpg"
-tags: ["8 Passengers", "White", "Royce Cloud"]
+tags: ["7 Passengers", "White", "Royce Cloud"]
 draft: false
 ---
 ## Photos

@@ -4,7 +4,7 @@ meta_title: "1959 Austin Princess Limousine"
 description: "1959 Austin Princess Limousine"
 date: 2022-04-04T05:00:00Z
 image: "/images/cars/1959-austin-princess-limousine/1959-austin-princess-limousine.jpg"
-tags: ["8 Passengers", "Black", "Austin"]
+tags: ["7 Passengers", "Black", "Austin"]
 draft: false
 ---
 ## Photos

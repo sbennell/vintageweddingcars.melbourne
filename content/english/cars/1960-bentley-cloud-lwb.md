@@ -5,7 +5,7 @@ description: "1960 Bentley Cloud LWB"
 date: 2022-04-04T05:00:00Z
 image: "/images/cars/1960-bentley-cloud-lwb/1960-bentley-cloud-lwb.jpg"
 
-tags: ["5 Passengers", "White", "Bentley"]
+tags: ["4 Passengers", "White", "Bentley"]
 draft: false
 ---
 ## Photos

@@ -4,7 +4,7 @@ meta_title: "1960 Rolls Royce Cloud"
 description: "1960 Rolls Royce Cloud"
 date: 2022-04-04T05:00:00Z
 image: "/images/cars/1960-rolls-royce-cloud/1960-rolls-royce-cloud.jpg"
-tags: ["5 Passengers", "Black", "Royce Cloud"]
+tags: ["4 Passengers", "Black", "Royce Cloud"]
 draft: false
 ---
 ## Photos
